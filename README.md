@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arsuhinars
+- 👋 Hi, I’m Arseny
 - 👀 I’m interested in programming, Arduino, making and playing video-games.
 - 🌱 I’m currently learning Unity engine.
 - 📫 How to reach me: arsuhinars@gmail.com

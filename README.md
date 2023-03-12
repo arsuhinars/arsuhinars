@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arseny
 - 👀 I’m interested in programming, learning new technologies, Arduino, making and playing video-games.
 - 🌱 I’m currently learning 🐋Docker.
-- 📫 How to reach me: arsuhinars@gmail.com, VK: [@arsuhinars](https://vk.com/arsuhinars), Telegram: [@arsuhinars](https://t.me/arsuhinars)
 - 🕹️ Besides, I have my own page on [Google play](https://play.google.com/store/apps/developer?id=arsuhinars) and [itch.io](https://arsuhinars.itch.io/)
 - 💻 Programming languages that I know: C#, C++, Python, JavaScript, TypeScript, Java

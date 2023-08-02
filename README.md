@@ -20,6 +20,7 @@
 ## Projects
 [![micro-blog](https://img.shields.io/badge/micro--blog-303952?style=for-the-badge&logo=fastapi)](https://github.com/arsuhinars/micro-blog)
 [![animals-chipization](https://img.shields.io/badge/animals--chipization-303952?style=for-the-badge&logo=springboot)](https://github.com/arsuhinars/animals-chipization)
+[![Dreamed Reality](https://img.shields.io/badge/Dreamed_Reality-303952?style=for-the-badge&logo=unity)](https://github.com/arsuhinars/Dreamed-Reality)
 [![Goodland](https://img.shields.io/badge/Goodland-303952?style=for-the-badge&logo=unity)](https://github.com/arsuhinars/Goodland)
 [![Racing Game](https://img.shields.io/badge/Racing_Game-303952?style=for-the-badge&logo=unity)](https://github.com/arsuhinars/RacingGame)
 [![game_console](https://img.shields.io/badge/game_console-303952?style=for-the-badge&logo=arduino)](https://github.com/arsuhinars/game_console)
